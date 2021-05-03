@@ -1,5 +1,5 @@
 👋  Hi, I’m @JoshuaAppleby,
-       I'm a student who is focusing on python; also learning HTML and CSS.
+       I'm a student who is focusing on learning python.
        I am interested in physics and maths.
        Please feel free to look at my Project Euler project [my main focus] or my github page.
       
